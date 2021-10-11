@@ -9,4 +9,4 @@
 7. JavaScript
 8. Библиотека owl-carousel и скрипт masked
 
-[Ссылка на сайт](https:https://www.alekseykrylov.ru/)
+[Ссылка на сайт](https://www.alekseykrylov.ru/)
